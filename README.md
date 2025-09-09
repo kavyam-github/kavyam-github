@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyam-github&label=Profile%20views&color=0e75b6&style=flat" alt="Kavyam-github" /> </p>
 
-- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, SQL**
+- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, SQL,Adv.Flutter,Data Mining,Computer Networking**
 
-- 💬 Ask me about **Flutter, Javascript, Java, SQL, C, HTML, CSS,Python**
+- 💬 Ask me about **Flutter, Javascript, Java, SQL, C, HTML, CSS, Python, **
 
 - 📫 How to reach me **kavyamjoshi93@gmail.com**
 
