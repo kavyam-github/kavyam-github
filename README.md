@@ -27,8 +27,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kavyam-github&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyam-github&theme=dark&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakNum=C9D1D9&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
